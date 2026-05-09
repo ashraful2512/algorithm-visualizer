@@ -1,6 +1,12 @@
 # AlgoViz - Algorithm Visualizer
 
+[![Netlify Deploy](https://img.shields.io/badge/Deployed%20on-Netlify-blue?style=flat-square&logo=netlify)](https://unique-pavlova-1147f4.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=flat-square)](https://unique-pavlova-1147f4.netlify.app)
+
 A comprehensive web application for visualizing various algorithms with interactive step-by-step animations.
+
+## 🌐 **Live Demo**
+**🚀 Try it now: [https://unique-pavlova-1147f4.netlify.app](https://unique-pavlova-1147f4.netlify.app)**
 
 ## 🚀 Features
 
@@ -149,14 +155,20 @@ npm run lint      # Run ESLint
 
 ## 🚀 Deployment
 
+### 🌐 **Live Deployment**
+This project is **currently deployed and live** on Netlify:
+- **Live URL**: [https://unique-pavlova-1147f4.netlify.app](https://unique-pavlova-1147f4.netlify.app)
+- **Status**: ✅ Fully functional with all algorithms working
+- **Last Updated**: Successfully deployed with all features
+
 ### Build for Production
 ```bash
 npm run build
 ```
 
 ### Deployment Options
-- **Vercel**: Recommended for React applications
-- **Netlify**: Drag-and-drop deployment
+- **✅ Netlify**: Currently deployed (recommended)
+- **Vercel**: Alternative for React applications
 - **GitHub Pages**: Free static hosting
 - **Firebase**: Google Firebase hosting
 
