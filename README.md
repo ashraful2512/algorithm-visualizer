@@ -15,7 +15,7 @@ A comprehensive web application for visualizing various algorithms with interact
 - **Graph Algorithms**: Dijkstra, Kruskal, Bellman-Ford, Floyd-Warshall, BFS, DFS, Prim, Topological, Kosaraju, A*, Ford-Fulkerson
 - **Dynamic Programming**: LCS, Knapsack, Coin Change, Matrix Chain Multiplication, LIS, Subset Sum
 - **String Algorithms**: KMP, Rabin-Karp, Boyer-Moore, Edit Distance
-- **Tree Algorithms**: Inorder, Preorder, Postorder, Level Order
+
 
 ### 🎯 Key Features
 - **Interactive Visualizations**: Step-by-step algorithm execution with animations
